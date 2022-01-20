@@ -1,0 +1,19 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "esnext",
+    "lib": ["es2020"],
+    "sourceMap": true,
+    "declaration": true,
+    "strict": true,
+    "noUnusedLocals": false,
+    "noImplicitReturns": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "baseUrl": ".",
+    "forceConsistentCasingInFileNames": true,
+    "noFallthroughCasesInSwitch": true,
+    "resolveJsonModule": true
+  }
+}
